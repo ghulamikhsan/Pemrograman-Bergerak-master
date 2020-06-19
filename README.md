@@ -22,10 +22,6 @@
 ![Screenshot_10](Pemrograman_Bergerak_UTS/Screenshot/Screen%20Shot%202019-11-11%20at%2013.11.03.png)<br>
 ![Screenshot_11](Pemrograman_Bergerak_UTS/Screenshot/Screen%20Shot%202019-11-11%20at%2013.11.09.png)<br>
 <b>9. MyLocalization</b><br><br>
-![Screenshot_12](MyLocalization/Screenshot/Screen%20Shot%202019-11-20%20at%2009.46.26.png)
-![Screenshot_13](MyLocalization/Screenshot/Screen%20Shot%202019-11-20%20at%2009.46.33.png)<br>
-![Screenshot_14](MyLocalization/Screenshot/Screen%20Shot%202019-11-20%20at%2009.47.24.png)
-![Screenshot_15](MyLocalization/Screenshot/Screen%20Shot%202019-11-20%20at%2009.47.29.png)<br>
 <b>10. MyBackgroundThread</b><br><br>
 ![Screenshot_16](BackgroundThread/Screenshot/Screen%20Shot%202020-01-01%20at%2017.36.06.png)<br>
 <b>11. MyLoader</b><br><br>
